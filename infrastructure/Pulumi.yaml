@@ -1,0 +1,6 @@
+name: scorekeeper-api
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Serverless backend for Scorekeeper
